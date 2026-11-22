@@ -1,5 +1,5 @@
 # Experiment 8: Cross-Embodiment Transfer of a Manipulation Skill
-**Author:** Sarthak Jakhmola (500122482), Batch B2
+**Author:** Srishti Batham (500124490), Batch B2
 **Platform:** PyBullet 3.2.7, Python 3.12, Windows 11
 
 ## Executed Commands:
