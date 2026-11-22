@@ -1,0 +1,5 @@
+Robot,Arm DOF,Max reach (m),Task coverage (%)
+kuka_iiwa,7,0.82,96.4
+franka_panda,7,0.85,98.1
+xarm6,6,0.7,88.5
+kuka_mini,6,0.45,52.3

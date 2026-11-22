@@ -1,0 +1,5 @@
+Robot,Expert,BC-agnostic,BC-proprio
+kuka_iiwa,100.0%,94.0%,96.0%
+franka_panda,100.0%,91.0%,12.0%
+xarm6,98.0%,86.0%,8.0%
+kuka_mini,60.0%,52.0%,4.0%
